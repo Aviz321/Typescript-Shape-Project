@@ -1,0 +1,7 @@
+D:\.Net\Typescript Project\Typescript_Project\Typescript_Project\bin\TypeScriptHTMLApp1.dll.config
+D:\.Net\Typescript Project\Typescript_Project\Typescript_Project\bin\TypeScriptHTMLApp1.dll
+D:\.Net\Typescript Project\Typescript_Project\Typescript_Project\bin\TypeScriptHTMLApp1.pdb
+D:\.Net\Typescript Project\Typescript_Project\Typescript_Project\obj\Debug\Typescript_Project.csproj.AssemblyReference.cache
+D:\.Net\Typescript Project\Typescript_Project\Typescript_Project\obj\Debug\Typescript_Project.csproj.CoreCompileInputs.cache
+D:\.Net\Typescript Project\Typescript_Project\Typescript_Project\obj\Debug\TypeScriptHTMLApp1.dll
+D:\.Net\Typescript Project\Typescript_Project\Typescript_Project\obj\Debug\TypeScriptHTMLApp1.pdb
